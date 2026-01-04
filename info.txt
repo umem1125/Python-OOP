@@ -23,4 +23,10 @@ Keuntungan Object-Oriented Programming
 - Polymorphism (Banyak Bentuk), objects yang berbeda bisa merespons method call yang sama dengan cara berbeda.
 - Abstraction (Abstraksi), menyembunyikan complexity dan hanya menampilkan interface yang penting.
 
+Real-World Analogies
+    Pabrik Mobil
+    - Class = Blueprint/Cetakan mobil
+    - Object = Mobil yang diproduksi dari blueprint
+    - Attributes = Warna, mesin, roda
+    - Methods = Maju, mundur, klakson
 
