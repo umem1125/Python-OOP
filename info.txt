@@ -1,0 +1,26 @@
+slide by: Programmer Zaman Now (https://www.programmerzamannow.com/)
+
+Apa itu Object-Oriented Programming?
+- Object-Oriented Programming (OOP) adalah paradigma programming yang mengorganisir code berdasarkan objects dan classes. 
+- Bayangkan OOP seperti cara kita berpikir dalam kehidupan nyata - setiap benda memiliki karakteristik (properties) dan kemampuan (behaviors).
+- Contoh Sederhana:
+    Mobil memiliki karakteristik: warna, merk, tahun
+    Mobil memiliki kemampuan: maju, mundur, belok, klakson
+- Dalam OOP:
+    Karakteristik = Attributes (variables dalam object)
+    Kemampuan = Methods (functions dalam object)
+
+Keuntungan Object-Oriented Programming
+- Data dan behavior tergabung dalam satu unit
+- Lebih mudah dipahami dan maintain
+- Reusable - bisa buat multiple instances
+- Data protection - tidak mudah corrupt
+- Scalable untuk sistem yang kompleks
+
+4 Pilar Object-Oriented Programming
+- Encapsulation (Pembungkusan), menggabungkan data dan methods dalam satu unit (class), dan menyembunyikan detail implementasi.
+- Inheritance (Pewarisan), child class mewarisi properties dan methods dari parent class.
+- Polymorphism (Banyak Bentuk), objects yang berbeda bisa merespons method call yang sama dengan cara berbeda.
+- Abstraction (Abstraksi), menyembunyikan complexity dan hanya menampilkan interface yang penting.
+
+
