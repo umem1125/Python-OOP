@@ -30,3 +30,8 @@ Real-World Analogies
     - Attributes = Warna, mesin, roda
     - Methods = Maju, mundur, klakson
 
+Naming Conventions
+- Class Names: PascalCase, misal Mahasiswa, MataPelajaran, Mobil, KategoriBarang 
+- Method Names: snake_case, misal perkenalan(), lari_ke_depan(), jalankan(), dan lain-lain
+- Attribute Names: snake_case, misal nama, nama_depan, nama_belakang, dan lain-lain
+
